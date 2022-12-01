@@ -1,5 +1,5 @@
 SELECT 
-    art.nome, alb.titulo_album
+    art.nome AS artista, alb.titulo_album AS album
 FROM
     SpotifyClone.artistas AS art
         RIGHT JOIN
