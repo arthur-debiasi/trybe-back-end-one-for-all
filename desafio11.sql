@@ -1,4 +1,5 @@
-SELECT titulo_cancao AS nome_musica,
+SELECT 
+    titulo_cancao AS nome_musica,
     CASE
         WHEN titulo_cancao LIKE '%Bard%' THEN REPLACE(titulo_cancao, 'Bard', 'QA')
         WHEN
