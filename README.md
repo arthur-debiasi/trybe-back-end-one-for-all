@@ -10,9 +10,11 @@ This project consists of two stages. The first is normalization and population o
 
 ## 📌 Skills
 
-- Use DDL, DML and DQL commands in SQL;
-- Create queries for searching and filtering data;
-- Create queries for inserting, updating and removing data.
+- Table normalization;
+- Use of DDL, DML and DQL commands in SQL;
+- Creation of databases and tables;
+- Creating queries for searching and filtering data;
+- Creation of queries for inserting, updating and removing data.
 
 ## 💬 Contact Me
 
